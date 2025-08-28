@@ -1,0 +1,39 @@
+
+🏄‍♂️ Surf Report – Folly Beach, SC – Wednesday, August 27, 2025 09:14 PM EDT
+
+Yewww! Morning, wave wranglers!
+
+Surf Height: .pwaPopup {
+        position: relative;
+        right: 0;
+        left: 0;
+        border-width: 0;
+        z-index: 5000;
+        width: 100%;
+        background: #5cb85c;
+        padding: 12px;
+        color: #fff;
+        font-size: 1.25em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .NowCastForecastToggle {
+        width: 32%;
+        display:inline-block;
+    }
+
+    .body-content {
+        margin-top:0;
+    }
+Buoy says: N/A
+Water Temp (approx): N/A
+Tide Notes: Check tide charts online
+
+No worry, just paddle—and maybe hump back up the beach!
+
+Joke o’ the day:
+"Why don’t surfers tell secrets? Because the ocean might leak ‘em!"
+
+Catch ya on the next curl—Willy out!
