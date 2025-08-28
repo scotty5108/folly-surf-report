@@ -2,7 +2,7 @@ name: Surf Report Automation
 
 on:
   schedule:
-    - cron: '0 6 * * *' # Runs daily at 6:00 AM UTC (2 AM EST during standard time, 1 AM EST daylight savings)
+    - cron: '0 6 * * *' # daily at 6:00 AM UTC
   workflow_dispatch:
 
 jobs:
@@ -34,3 +34,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./site
         publish_branch: gh-pages
+        verbose: true
