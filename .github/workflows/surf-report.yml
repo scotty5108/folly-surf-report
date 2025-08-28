@@ -34,4 +34,3 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./site
         publish_branch: gh-pages
-        verbose: true
